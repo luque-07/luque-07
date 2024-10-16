@@ -30,8 +30,7 @@ Actualmente no tengo experiencia profesional.
 
 ## 🚀 Proyectos Destacados
 
-### [Proyecto 1](![image](https://github.com/user-attachments/assets/7f724fbd-d834-4be6-91eb-89b768b31e80)
-)
+### [Proyecto 1](https://github.com/luque-07/LearningHTML.git)
 HTML & CSS | Login, register y change password.
 ### [Proyecto 2](enlace_al_proyecto)
 Descripción detallada del proyecto 2, destacando sus características y logros principales.
