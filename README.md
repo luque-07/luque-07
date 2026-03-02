@@ -1,16 +1,12 @@
 Hi 👋 My name is Adrián Luque
 =============================
 
-Web Developer and designer
+Java Developer
 --------------------------
 
-I'm 17 years old and have recently started my programming journey. I've been diving into HTML and CSS, and I'm excited to begin learning JavaScript soon. My goal is to become a frontend developer.
+18-year-old developer learning Java intensively, gradually building larger and more complex projects.
 
-*   🌍  I'm based in Spain 🇪🇸
-*   ✉️  You can contact me at [adrian.luquehernandez@gmail.com](mailto:adrian.luquehernandez@gmail.com)
-*   🧠  I'm learning HTML and CSS
-<a href="https://www.github.com/luque-07" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/luque-07?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://www.github.com/luque-07" target="_blank" rel="noreferrer"></a>
 
 ### Skills 
 <p align="left">
